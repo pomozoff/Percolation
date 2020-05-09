@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07727d9d-45a9-4917-9155-ec5232b11176" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="ProjectId" id="1a9pgNRXjJVrsAfhYVwFmlUWm61" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="Application.Reader">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="Percolation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Percolation" />
+      <module name="Percolation" />
+      <option name="PROGRAM_PARAMETERS" value="2 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="Percolation" />
+      <option name="PROGRAM_PARAMETERS" value="2 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reader" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Reader" />
+      <module name="Percolation" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/input3.txt" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Percolation" />
+      <item itemvalue="Application.PercolationStats" />
+      <item itemvalue="Application.Reader" />
+    </list>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="127" key="#Menus_and_Toolbars" timestamp="1589016878459">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="344" y="127" key="#Menus_and_Toolbars/48.23.1392.877@48.23.1392.877" timestamp="1589016878459" />
+    <state x="343" y="127" key="#Plugins" timestamp="1586333876783">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state x="341" y="127" key="#Plugins/43.23.1397.877@43.23.1397.877" timestamp="1586159209168" />
+    <state x="343" y="127" key="#Plugins/45.23.1395.877@45.23.1395.877" timestamp="1586333876783" />
+    <state x="211" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588838768262">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="206" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.23.1397.877@43.23.1397.877" timestamp="1586200235190" />
+    <state x="207" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/44.23.1396.877@44.23.1396.877" timestamp="1586616838586" />
+    <state x="208" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/45.23.1395.877@45.23.1395.877" timestamp="1586549504838" />
+    <state x="211" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/48.23.1392.877@48.23.1392.877" timestamp="1588838768262" />
+    <state x="482" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1586242286551">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="482" y="169" key="#com.intellij.ide.util.MemberChooser/43.23.1397.877@43.23.1397.877" timestamp="1586242286551" />
+    <state x="479" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586594020373">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state x="479" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/43.23.1397.877@43.23.1397.877" timestamp="1586200232909" />
+    <state x="479" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/44.23.1396.877@44.23.1396.877" timestamp="1586594020373" />
+    <state x="480" y="252" key="#com.intellij.ide.util.TreeClassChooserDialog/45.23.1395.877@45.23.1395.877" timestamp="1586549499141" />
+    <state x="585" y="199" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1588838784287">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="585" y="199" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/48.23.1392.877@48.23.1392.877" timestamp="1588838784287" />
+    <state width="1396" height="226" key="GridCell.Tab.0.bottom" timestamp="1586616984095">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1397" height="223" key="GridCell.Tab.0.bottom/43.23.1397.877@43.23.1397.877" timestamp="1586329185660" />
+    <state width="1396" height="226" key="GridCell.Tab.0.bottom/44.23.1396.877@44.23.1396.877" timestamp="1586616984095" />
+    <state width="1395" height="223" key="GridCell.Tab.0.bottom/45.23.1395.877@45.23.1395.877" timestamp="1586549547543" />
+    <state width="1396" height="226" key="GridCell.Tab.0.center" timestamp="1586616984094">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1397" height="223" key="GridCell.Tab.0.center/43.23.1397.877@43.23.1397.877" timestamp="1586329185659" />
+    <state width="1396" height="226" key="GridCell.Tab.0.center/44.23.1396.877@44.23.1396.877" timestamp="1586616984094" />
+    <state width="1395" height="223" key="GridCell.Tab.0.center/45.23.1395.877@45.23.1395.877" timestamp="1586549547542" />
+    <state width="1396" height="226" key="GridCell.Tab.0.left" timestamp="1586616984094">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1397" height="223" key="GridCell.Tab.0.left/43.23.1397.877@43.23.1397.877" timestamp="1586329185659" />
+    <state width="1396" height="226" key="GridCell.Tab.0.left/44.23.1396.877@44.23.1396.877" timestamp="1586616984094" />
+    <state width="1395" height="223" key="GridCell.Tab.0.left/45.23.1395.877@45.23.1395.877" timestamp="1586549547540" />
+    <state width="1396" height="226" key="GridCell.Tab.0.right" timestamp="1586616984095">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1397" height="223" key="GridCell.Tab.0.right/43.23.1397.877@43.23.1397.877" timestamp="1586329185660" />
+    <state width="1396" height="226" key="GridCell.Tab.0.right/44.23.1396.877@44.23.1396.877" timestamp="1586616984095" />
+    <state width="1395" height="223" key="GridCell.Tab.0.right/45.23.1395.877@45.23.1395.877" timestamp="1586549547543" />
+    <state width="1396" height="226" key="GridCell.Tab.1.bottom" timestamp="1586616984096">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1397" height="223" key="GridCell.Tab.1.bottom/43.23.1397.877@43.23.1397.877" timestamp="1586329185563" />
+    <state width="1396" height="226" key="GridCell.Tab.1.bottom/44.23.1396.877@44.23.1396.877" timestamp="1586616984096" />
+    <state width="1395" height="223" key="GridCell.Tab.1.bottom/45.23.1395.877@45.23.1395.877" timestamp="1586549547704" />
+    <state width="1396" height="226" key="GridCell.Tab.1.center" timestamp="1586616984096">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1397" height="223" key="GridCell.Tab.1.center/43.23.1397.877@43.23.1397.877" timestamp="1586329185562" />
+    <state width="1396" height="226" key="GridCell.Tab.1.center/44.23.1396.877@44.23.1396.877" timestamp="1586616984096" />
+    <state width="1395" height="223" key="GridCell.Tab.1.center/45.23.1395.877@45.23.1395.877" timestamp="1586549547703" />
+    <state width="1396" height="226" key="GridCell.Tab.1.left" timestamp="1586616984095">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1397" height="223" key="GridCell.Tab.1.left/43.23.1397.877@43.23.1397.877" timestamp="1586329185562" />
+    <state width="1396" height="226" key="GridCell.Tab.1.left/44.23.1396.877@44.23.1396.877" timestamp="1586616984095" />
+    <state width="1395" height="223" key="GridCell.Tab.1.left/45.23.1395.877@45.23.1395.877" timestamp="1586549547703" />
+    <state width="1396" height="226" key="GridCell.Tab.1.right" timestamp="1586616984096">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1397" height="223" key="GridCell.Tab.1.right/43.23.1397.877@43.23.1397.877" timestamp="1586329185562" />
+    <state width="1396" height="226" key="GridCell.Tab.1.right/44.23.1396.877@44.23.1396.877" timestamp="1586616984096" />
+    <state width="1395" height="223" key="GridCell.Tab.1.right/45.23.1395.877@45.23.1395.877" timestamp="1586549547704" />
+    <state x="330" y="203" key="IDE.errors.dialog" timestamp="1586616999413">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state x="329" y="203" key="IDE.errors.dialog/43.23.1397.877@43.23.1397.877" timestamp="1586159500461" />
+    <state x="330" y="203" key="IDE.errors.dialog/44.23.1396.877@44.23.1396.877" timestamp="1586616999413" />
+    <state x="235" y="63" key="SettingsEditor" timestamp="1589016949000">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="231" y="23" key="SettingsEditor/43.23.1397.877@43.23.1397.877" timestamp="1586240310383" />
+    <state x="232" y="63" key="SettingsEditor/44.23.1396.877@44.23.1396.877" timestamp="1586617043067" />
+    <state x="235" y="63" key="SettingsEditor/48.23.1392.877@48.23.1392.877" timestamp="1589016949000" />
+    <state x="406" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1586240718001">
+      <screen x="43" y="23" width="1397" height="877" />
+    </state>
+    <state x="406" y="213" width="670" height="676" key="search.everywhere.popup/43.23.1397.877@43.23.1397.877" timestamp="1586240718001" />
+  </component>
+</project>
